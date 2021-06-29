@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,MACE,oBAAa,CAAb,YAAa,CACb,8BAAuB,CAAvB,sBAAuB,CACvB,0BAAmB,CAAnB,kBAAmB,CACnB,6BAAsB,CAAtB,qBACF","file":"main.0144f013.chunk.css","sourcesContent":[".main{\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  flex-direction: column;\n}"]}
